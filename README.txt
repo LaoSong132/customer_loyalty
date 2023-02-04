@@ -12,3 +12,4 @@ From the project root directory:
 
 javac src/*.java
 java src/MarketplaceUI
+
